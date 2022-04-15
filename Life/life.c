@@ -7,8 +7,6 @@
 
 /* Student information for project:
  *
- * Replace <NAME> with your name.
- *
  * On my honor, Samip Poudel, this programming project is my own work
  * and i have not provided this code to any other student.
  *
