@@ -8,7 +8,7 @@ An implementation of a binary search tree in cpp
 A simple card game played with 2+ players. Uses basic machine learning techniques for create a formidable AI opponent.
 
 ## Project Life
-My own version of John Conway's Game of Life. 
+My take on John Conway's Game of Life. 
 
 ## Project UTPod
 Implementation of a song library in cpp. 
